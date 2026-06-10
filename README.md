@@ -1,17 +1,17 @@
-# Vacas e Ovelhas: A Pecuária do Campo à Cidade.
+# Vacas e Ovelhas
+
+Projeto desenvolvido para o Concurso Agrinho 2026.
+
+## Recursos
+
+- HTML5 semântico
+- CSS3
+- JavaScript
+- Modo escuro
+- Aumento e diminuição de fonte
+- Responsividade
+- Imagens com créditos
 
 ## Objetivo
-Apresentar e valorizar a importância das vacas e das ovelhas para a vida no campo e para todos, mostrando seus benefícios na produção.
 
-##  Tecnologias utilizadas
-* HTML
-* CSS
-* JavaScript 
-
-##  Funcionalidades
-* Modo escuro
-* Aumento e diminuição de fonte
-* Designer
-* Imagens com créditos
-
-De Michelly Mary Silva Santos.
+Apresentar a importância das vacas e das ovelhas para a vida no campo e para todos.
